@@ -1,2 +1,1 @@
-# https://netconfigs.netlify.app/
-🛠️ Network Configuration Database
+# 🛠️ Network Configuration Database
